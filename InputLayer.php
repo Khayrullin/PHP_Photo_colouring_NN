@@ -2,6 +2,7 @@
 
 class InputLayer {
 
+
     private $_trainset = array();
     private $_testset = array();
 
